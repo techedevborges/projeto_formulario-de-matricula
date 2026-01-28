@@ -48,4 +48,4 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/techedevborges/projeto_formulario-de-matricula.git](https://github.com/techedevborges/projeto_formulario-de-matricula.git)
+   git clone https://github.com/techedevborges/projeto_formulario-de-matricula.git
